@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/areeb--01629954/)](https://www.linkedin.com/feed/)
+[![Linkedin Badge](https://img.shields.io/badge/-areeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/areeb--01629954/)](https://www.linkedin.com/feed/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-areeb-yellow)](https://stackoverflow.com/users/3687251/areeb-)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-areeb-yellow)](https://stackoverflow.com/users/3687251/areeb-)
 
