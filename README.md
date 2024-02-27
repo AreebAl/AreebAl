@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge]()](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
-[![Website Badge](http://areebsportfolio.infinityfreeapp.com/)](https://www.areeb)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/areeb--01629954/)](https://www.linkedin.com/feed/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-areeb-yellow)](https://stackoverflow.com/users/3687251/areeb-)
-
+[![Website Badge](https://img.shields.io/badge/StackOverflow-areeb-yellow)](https://stackoverflow.com/users/3687251/areeb-)
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
